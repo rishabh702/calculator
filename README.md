@@ -1,3 +1,3 @@
 # calculator
 
-## a simple atrthimatic calculator
+## a simple arithmatic calculator
